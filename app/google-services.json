@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933085955083",
+    "project_id": "k9delivery-2f50c",
+    "storage_bucket": "k9delivery-2f50c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933085955083:android:c6e6b4158df7d7ce6a330e",
+        "android_client_info": {
+          "package_name": "com.example.k9deliveyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZRSSRfA2uL1-O8P0vsHWaTO2ulSbJ4Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
